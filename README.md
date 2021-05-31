@@ -19,6 +19,5 @@
 1.Challenges
 2.Obstacles
 
-
 [more details](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
