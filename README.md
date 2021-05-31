@@ -13,3 +13,12 @@
 ##### ***Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:***
 
 ![mindsit](pic2.jpg)
+
+###### Perseverance, gumption traps, and maintaining a growth mindset
+
+1.Challenges
+2.Obstacles
+
+
+[more details](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
