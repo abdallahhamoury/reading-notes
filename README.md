@@ -1,23 +1,17 @@
 # reading-notes
 
-## **How you can benefit from a growth mindset** 😊
+# intro
 
-![mindsit](pic1.jpg)
 
-### What is a growth mindset? 🛡️
+### **`About me`**
 
-![mindsit](pic2.jpg)
+##### Hello Dear Gentlemen
+Abdallah Hamoury, I am 31 years old. I am a specialist in marketing. I have a master's degree in marketing and two university degrees in business administration and marketing
+I spend my time reading, I love to learn new things, and I have a passion for everything electronic
+Leave the world a beautiful place :wink:
 
-####  *A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning*
+***contact me*** [here](https://web.facebook.com/abdallah.hamoury)
 
-##### ***Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:***
+`Let us together for the environment`
 
-![mindsit](pic2.jpg)
-
-###### Perseverance, gumption traps, and maintaining a growth mindset
-
-1.Challenges
-2.Obstacles
-
-[more details](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
+![think green](https://images.all-free-download.com/images/graphicthumb/green_plant_wallpaper_202963.jpg )
