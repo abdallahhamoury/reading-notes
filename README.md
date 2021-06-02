@@ -25,9 +25,5 @@ Leave the world a beautiful place :wink:
 
 
 
-
 - __HELLO WORLD__
-=======
 
-![think green](https://images.all-free-download.com/images/graphicthumb/green_plant_wallpaper_202963.jpg )
->>>>>>> 66d24f6d18d9feb9ccdf6db3ec2fba9ce5c2ff08
