@@ -13,15 +13,16 @@ Leave the world a beautiful place :wink:
 ***contact me*** [here](https://web.facebook.com/abdallah.hamoury)
 
 `Let us together for the environment`
-<<<<<<< HEAD
+
 
 ![think green](https://images.all-free-download.com/images/graphicthumb/green_plant_wallpaper_202963.jpg )
 
 ### table of contact:
-  Read num |  link 
- ----  | ----  
+
+      Read num |  link 
+ ------------- | -------------------  
  growth mindset| [page link](lab2.md)
- read01| [page link](read01.md)
+    read01     | [page link](read01.md)
 
 
 
