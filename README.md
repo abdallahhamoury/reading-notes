@@ -24,10 +24,10 @@ read num                               | link
 ---------------------------------------|---------------------------------------
 read00                                 | [page link](lab2.md)
 read01                                 | [page link](read01.md)
-read02                                 |  https://abdallahhamoury.github.io/reading-notes/
-read03                                 | https://github.com/abdallahhamoury/reading-notes/blob/main/read03.md
-read04                                 | https://github.com/abdallahhamoury/reading-notes/blob/main/read04.md
-read06                                 |  https://github.com/abdallahhamoury/reading-notes/blob/main/read06.md
+read02                                 | [page link](read02.md)
+read03                                 | [page link](read03.md)
+read04                                 | [page link](read04.md)
+read06                                 | [page link](read06.md)
 
 
 
