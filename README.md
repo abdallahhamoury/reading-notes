@@ -19,12 +19,12 @@ Leave the world a beautiful place :wink:
 
 ### table of contact:
 
-      Read num |  link 
- ------------- | -------------------  
- growth mindset| [page link](lab2.md)
-    read01     | [page link](read01.md)
+read num                               | link
+---------------------------------------|---------------------------------------
+growth mindse                          | [page link](lab2.md)
+read01                                 | [page link](read01.md)
 
 
 
-- __HELLO WORLD__
+ #### __HELLO WORLD__
 
