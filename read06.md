@@ -19,3 +19,41 @@ Learn how to work with JavaScript's functions to develop your applications.[More
 ### Example
 
 ![EX](jsread06.jpg)
+
+
+## Reference
+
+
+* Standard objects
+
+Get to know standard built-in objects Array, Boolean, Date, Error, Function, JSON, Math, Number, Object, RegExp, String, Map, Set, WeakMap, WeakSet, and others.
+
+*Expressions and operators
+
+Learn more about the behavior of JavaScript's operators instanceof, typeof, new, this, the operator precedence, and more.
+
+* Statements and declarations
+
+Learn how do-while, for-in, for-of, try-catch, let, var, const, if-else, switch, and more JavaScript statements and keywords work. 
+
+* Functions
+
+Learn how to work with JavaScript's functions to develop your applications.
+
+----------------------------------------
+
+In JavaScript we can attach various, so called "event listeners" to every DOM element and we can even specify to which event should the specific listener react to.
+
+or this we can use the **addEventListener** method of a DOM element, that will get two parameters. The first one is the name of the event, such as click or keyup, or change. The second one is a function. (I might need to explain how can you pass a function as a parameter to another function.)
+
+Here is the full expression:
+
+>document.getElementById('btn').addEventListener('click', clicked);
+
+This means that when the browser detects a 'click' on the HTML element with the id 'btn', then it will execute the function called 'clicked'.
+
+What does the 'clicked' function do? 
+
+It changes the DOM (the HTML) by inserting the text 'Hello World' in the element with the id 'display'. This operation was explained in the article about changing the DOM.
+
+![EX2](jsimg.jpg)
