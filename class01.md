@@ -114,6 +114,47 @@ You can read more about semantic elements in [HTML Semantics](https://www.w3scho
 
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+### Process & Design
+
+#### WHO IS THE SITE FOR?
+
+![Design](https://www.oreilly.com/library/view/html-css/9781118206911/images/ch018-Uf001.jpg)
+
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
+It can be helpful to ask some questions about the people you would expect to be interested in the subject of your site.
+Realistically, it is unlikely to be relevant to everyone.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### The ABC of Programming JS :beginner:
+
+Before you learn how to read and write the JavaScript language itself, you need to become familiar with some key concepts in computer programming. They will be covered in three sections:
+
+> A
+
+What is a script and how do I create one?
+
+> B
+
+How do computers fit in with the world around them?
+
+> C
+
+How do I write a script for a web page?
+
+`Once you have learned the basics, the following chapters will show how the JavaScript language can be used to tell browsers what you want them to do.`
+
+> A SCRIPT IS A SERIES OF INSTRUCTIONS
+> A script is a series of instructions that a computer can follow to achieve a goal. You could compare scripts to any of the following:
+> By following the instructions in a recipe, one-by-one in the order set out
+
+
+
+
+
+
 
 
 
