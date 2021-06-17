@@ -57,21 +57,21 @@ pleased to meet you All , best wishes
  
  read number                           | link
 ---------------------------------------|---------------------------------------
-read201                                | 
-read201                                | 
-read203                                | 
-read204                                | 
-read205                                | 
-read206                                | 
-read207                                | 
-read208                                | 
-read209                                | 
-read210                                | 
-read211                                | 
-read212                                | 
-read213                                | 
-read214                                | 
-read215                                | 
+read201                                | [page link](class01.md)
+read201                                | [page link]
+read203                                | [page link]
+read204                                | [page link]
+read205                                | [page link]
+read206                                | [page link]
+read207                                | [page link]
+read208                                | [page link]
+read209                                | [page link]
+read210                                | [page link]
+read211                                | [page link]
+read212                                | [page link]
+read213                                | [page link]
+read214                                | [page link]
+read215                                | [page link]
 
 
 
