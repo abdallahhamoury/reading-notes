@@ -59,7 +59,7 @@ pleased to meet you All , best wishes
 ---------------------------------------|---------------------------------------
 read201                                | [page link](class01.md)
 read202                                | [page link](class02.md)
-read203                                | [page link]
+read203                                | [page link](class03.md)
 read204                                | [page link]
 read205                                | [page link]
 read206                                | [page link]
