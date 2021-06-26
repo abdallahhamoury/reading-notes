@@ -62,7 +62,7 @@ read202                                | [page link](class02.md)
 read203                                | [page link](class03.md)
 read204                                | [page link](class04.md)
 read205                                | [page link](class05.md)
-read206                                | [page link]
+read206                                | [page link](class06.md)
 read207                                | [page link]
 read208                                | [page link]
 read209                                | [page link]
