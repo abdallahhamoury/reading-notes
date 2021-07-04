@@ -68,7 +68,7 @@ read208                                | [page link](class08.md)
 read209                                | [page link](class09.md)
 read210                                | [page link](class10.md)
 read211                                | [page link](class11.md)
-read212                                | [page link]
+read212                                | [page link](class12.md)
 read213                                | [page link]
 read214                                | [page link]
 read215                                | [page link]
