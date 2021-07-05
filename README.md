@@ -69,7 +69,7 @@ read209                                | [page link](class09.md)
 read210                                | [page link](class10.md)
 read211                                | [page link](class11.md)
 read212                                | [page link](class12.md)
-read213                                | [page link]
+read213                                | [page link](class13.md)
 read214                                | [page link]
 read215                                | [page link]
 
