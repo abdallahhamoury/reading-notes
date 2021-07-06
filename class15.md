@@ -56,3 +56,4 @@ The paradox, of course, is that Google’s intense data collection and number cr
 
 Google’s search results confirm the experience we have seen with teams worldwide over the last 10 years. It’s not the parts. It’s how the parts work together to support, encourage, and empower each other. Behavioral norms are always present on teams. The core question is, “are they working for you?” On most teams, the answer is—not as well as we like. The team conversation starts a process of looking at how the team interacts and where the team wants to improve. This leads to action, practice, and learning.
 
+
