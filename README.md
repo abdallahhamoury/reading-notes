@@ -2,6 +2,7 @@
 
 # intro
 
+## Code 102 Reading Notes:
 
 ### **`About me`**
 
@@ -39,13 +40,12 @@ read08                                 | [page link](read08.md)
  ## Code 201 Reading Notes:
  
  
- 
- #### My name is Abdallah Hamoury, I studied marketing and business administration, and I majored in marketing
+  #### My name is Abdallah Hamoury, I studied marketing and business administration, and I majored in marketing
  
 I'm graduated from ASU with a master's degree. I am looking forward to expanding my knowledge and skills in programing & digital marketing 
 pleased to meet you All , best wishes
  
- `Again Let Us Together Tor The Environment`
+`Again Let Us Together Tor The Environment`
  
  ![think green](https://greentumble.com/wp-content/uploads/2016/12/being-green.jpg )
  
@@ -74,4 +74,36 @@ read214                                | [page link](class14.md)
 read215                                | [page link](class15.md)
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+## Code 301 Reading Notes:
+ 
+  #### My name is Abdallah Hamoury, I studied marketing and business administration, and I have a master's degree in marketing
+ 
+Specialized in e-marketing and interested in building brands and user experience,And I have a passion for designs
+ 
+ ##`Go Green`
+ 
+
+ ![think green](https://images.all-free-download.com/images/graphicthumb/green_leaf_background_03_hd_pictures_169229.jpg )
+ 
+  > table of contact:
+ 
+ read number                           | link
+---------------------------------------|---------------------------------------
+read301                                | [page link]()
+read302                                | [page link]()
+read303                                | [page link]()
+read304                                | [page link]()
+read305                                | [page link]()
+read306                                | [page link]()
+read307                                | [page link]()
+read308                                | [page link]()
+read309                                | [page link]()
+read310                                | [page link]()
+read311                                | [page link]()
+read312                                | [page link]()
+read313                                | [page link]()
+read314                                | [page link]()
+read315                                | [page link]()
 
