@@ -80,9 +80,9 @@ read215                                | [page link](class15.md)
  
   #### My name is Abdallah Hamoury, I studied marketing and business administration, and I have a master's degree in marketing
  
-Specialized in e-marketing and interested in building brands and user experience,And I have a passion for designs
+Specialized in e-marketing and interested in building brands and user experience,I have a passion for art and design
  
- ##`Go Green`
+ ## `Go Green`
  
 
  ![think green](https://images.all-free-download.com/images/graphicthumb/green_leaf_background_03_hd_pictures_169229.jpg )
