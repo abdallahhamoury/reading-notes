@@ -24,6 +24,13 @@ In **React**, the map() function is most commonly used for rendering a list of d
 
 ##### The Spread operator lets you expand an iterable like an object, string, or array into its elements while the Rest operator does the inverse by reducing a set of elements into one array
 
+### What isused for
+- Using Math functions
+- Using an array as arguments
+- Using Math functions
+- Combining objects
+
+
 
 ##### spread operator can do
 
@@ -32,6 +39,10 @@ In **React**, the map() function is most commonly used for rendering a list of d
 The Spread operator lets you expand an iterable like an object, string, or array into its elements while the Rest operator does the inverse by reducing a set of elements into one array.
 
 EX:
+
+let world = {world: "HEllO (;"}
+
+
 
 `const arr1 = [1,2,3]
 const arr2 = [4,5,6]
