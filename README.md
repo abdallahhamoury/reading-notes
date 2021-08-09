@@ -93,7 +93,7 @@ Specialized in e-marketing and interested in building brands and user experience
 ---------------------------------------|---------------------------------------
 read301                                | [page link](read301.md)
 read302                                | [page link](read302.md)
-read303                                | [page link]()
+read303                                | [page link](read303.md)
 read304                                | [page link]()
 read305                                | [page link]()
 read306                                | [page link]()
