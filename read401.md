@@ -20,3 +20,9 @@ One of the most widely used programming languages, Java is used as the server-si
 **What is Java and features of Java?**
 
 Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore
+
+## How many types of Java are there?
+
+There are four platforms of the Java programming language: Java Platform, Standard Edition (Java SE) Java Platform, Enterprise Edition (Java EE) Java Platform, Micro Edition (Java ME)
+
+![java2](https://static.javatpoint.com/images/core/java-features.png)
