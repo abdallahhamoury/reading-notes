@@ -21,14 +21,10 @@ import java.text.\*; Some formatting classes.
 import java.util.regex.\*; Regular expression classes.
 Loop Statements
 Java provides different types of loops to fit any programming need. Each loop has its own purpose and a suitable use case to serve.
-The while Statements
-> while (true){
-    // your code goes here
-}
-> The do-while Statements
-do {
-    statement(s)
-> } while (expression);
-> The for Statement
-> for(int i=1; i<11; i++){
-    System.out.println("Count is: " + i);
+
+
+## For Loop
+A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.
+
+## While Loop
+The while loop is Java's most fundamental loop statement. It repeats a statement or a block of statements while its controlling Boolean-expression is true.
