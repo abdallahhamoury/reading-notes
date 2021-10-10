@@ -137,7 +137,7 @@ BEST REGARDS FROM NOW ON...
   read number                           | link
 ---------------------------------------|---------------------------------------
 read401                                | [page link](read401.md)
-read402                                | [page link]()
+read402                                | [page link](read402.md)
 read403                                | [page link]()
 read404                                | [page link]()
 read405                                | [page link]()
