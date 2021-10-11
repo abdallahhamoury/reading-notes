@@ -11,14 +11,20 @@ Java is an example of a statically typed language.
 Java's type system involves not only classes and primitive types, but also other kinds of reference type that are related to the basic concept of a class, but which differ in some way
 
 
-`interface Centered {
+interface Centered {
+
   void setCenter(double x, double y);
+  
   double getCenterX();
+  
   double getCenterY();
-}`
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+Programs can use Astanat to indicate and error can occur and can use Tri and Catch
 
 
-
-
+> Scanner is a utility class in java. util package which can parse primitive types and strings using regular expressions. 
 
 
