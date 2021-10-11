@@ -27,4 +27,4 @@ Programs can use Astanat to indicate and error can occur and can use Tri and Cat
 
 > Scanner is a utility class in java. util package which can parse primitive types and strings using regular expressions. 
 
-
+Valid Java programming language code must honor the Catch or Specify Requirement. ... for the exception, as described in Catching and Handling Exceptions
