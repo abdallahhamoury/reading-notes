@@ -1,28 +1,24 @@
 ## JAVA
-
-![java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9cMrUc31f7qIRhA3M21HcJv4kQ_SU2I28PDekxJnee5bWki2qG8oD3lNjfDPF1OAmfk&usqp=CAU)
-
-What is Java exactly?
+ 
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable.
 
-### Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
-
-> What is Java used for?
+What is Java used for?
 One of the most widely used programming languages, Java is used as the server-side language for most back-end development projects, including those involving big data and Android development. Java is also commonly used for desktop computing, other mobile computing, games, and numerical computing.
 
-
-![java1](https://imgs.xkcd.com/comics/compiling.png)
-
-
-##### Java is a technology consisting of both a programming language and a software platform. ... Java bytecode runs without modification on any system that supports JVMs, allowing your Java code to be run anywhere. The Java software platform consists of the JVM, the Java API, and a complete development environment
+![Image of Yaktocat](https://p92.com/binaries/content/gallery/p92website/technologies/java-details.png)
 
 
-**What is Java and features of Java?**
+Variables
+We can say that there are two main types of fields or variables used within a ava code:
 
-Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore
+Instance Variables (Non-Static Fields): Instance variables (non-static variables) within a class are created at run-time, meaning that we declare them inside the class and if their values changed it will be reflected inside the same class only and will affect other classes.
 
-## How many types of Java are there?
+static field: are fields that are shared and used by all the objects and loaded when class is loaded. you declare one at the main class and use it with every copy.
 
-There are four platforms of the Java programming language: Java Platform, Standard Edition (Java SE) Java Platform, Enterprise Edition (Java EE) Java Platform, Micro Edition (Java ME)
 
-![java2](https://static.javatpoint.com/images/core/java-features.png)
+Compiling
+Compiling simply means is to stick to the language's rules (syntax) so your machine can correctly read the instruction you wrote without any errors.
+
+
+
+
