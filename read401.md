@@ -28,3 +28,8 @@ Statements are roughly equivalent to sentences in natural languages. A statement
 a group of zero or more statements between balanced braces and can be used anywhere a single statement is allowed.
 
 
+### Java control flow 
+Control flow or flow of control is the order in which instructions, statements and function calls being executed or evaluated when a program is running. The control flow statements are also called as Flow Control Statements. In Java, statements inside your code are generally executed sequentially from top to bottom, in the order that they appear. It is not always the case your program statements to be executed straightforward one after another sequentially
+
+![Image of Yaktocat](http://w3adda.com/wp-content/uploads/2018/12/java-control-statements-1024x547.jpg)
+
