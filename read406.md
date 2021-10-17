@@ -1,6 +1,6 @@
 ### Inheritance and Interfaces
 
-## Object-Oriented Programming Concepts
+## Object-Oriented
 Object
 
 the object is a software package for associated behavior and state.
