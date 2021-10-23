@@ -36,5 +36,5 @@ Spring MVC specifies each dependency separately. | It wraps the dependencies tog
 `Thymeleaf is a Java template engine for processing and creating HTML, XML, JavaScript, CSS and plain text. ... In this article, we will discuss new features of Thymeleaf 3.0 in Spring MVC with Thymeleaf application. Version 3 comes with new features and many under-the-hood improvements`
 
 
-
+It also follows the design pattern of Model-View-Controller, it uses all the basic features such as Inversion of Control and Dependency Injection.
 
