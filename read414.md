@@ -1,28 +1,42 @@
-# Read: Trees
+# Trees
 
----------------------------------------------------------------------------------
-A binary tree is a recursive data structure where each node can have 2 children at most. A common type of binary tree is a binary search tree, in which every node has a value that is greater than or equal to the node values in the left sub-tree, and less than or equal to the node values in the right sub-tree
+A tree data structure can be defined recursively as a collection of nodes, where each node is a data structure consisting of a value and a list of references to nodes. The start of the tree is the "root node" and the reference nodes are the "children". No reference is duplicated and none points to the root.
+Wikipedia
 
-To implement this algorithm, you can write a method to traverse all nodes of the binary tree using InOrder traversal by following these steps:
-Write a method in Order(TreeNode)
-Check if node == is empty, and if yes, return, then this is our base case.
-call inOrder node.
-Print the node value.
-Call inOrder node
+# Terminology
+Root
 
-### Traversals
+The first node from where the tree originates is called as a root node. In any tree, there must be only one root node. We can never have multiple root nodes in a tree data structure.
 
-- Depth First
-Depth First Search (DFS) is a traversal algorithm used for both tree and graph data structures. The first research delves deeper into each branch before moving on to explore another.
+Node
 
-- Breadth First
+The node which has at least one child is called as an internal node. Internal nodes are also called as non-terminal nodes. Every non-leaf node is an internal node.
 
-First Scope Lookup (BFS) is based on traversal of nodes by adding each node's neighbor starting from the root node to the traversal queue. BFS Graph Similar to Tree
+Edge-
 
+The connecting link between any two nodes is called as an edge. In a tree with n number of nodes, there are exactly (n-1) number of edges.
 
-#### Binary Tree Vs K-ary Trees
+Leaf Node-
 
-A binary tree for which the root node does not have a suitable branch can be considered as a public tree, and any binary tree can be considered as a set (forest) of public trees. A K-ary tree is a tree in which no node can have more than K children. A binary tree is an example of a K-ary tree, where K equals 2
+The node which does not have any child is called as a leaf node. Leaf nodes are also called as external nodes or terminal nodes.
 
-#### Binary Search Trees in java
-A binary search tree (hereafter BST) is a type of binary tree. It can also be defined as a node-based binary tree. BST is also referred to as "Binary Ordered Tree". In BST, all nodes in the left subtree have values less than the value of the root node
+Height-
+
+Total number of edges that lies on the longest path from any leaf node to a particular node is called as height of that node. Height of a tree is the height of root node. Height of all leaf nodes = 0
+
+Traversals
+
+Unlike linear data structures which have only one logical way to traverse them, trees can be traversed in different ways. Following are the generally used ways for traversing trees.
+
+Depth First Traversals:
+
+(a) Inorder (Left, Root, Right)
+
+(b) Preorder (Root, Left, Right)
+
+(c) Postorder (Left, Right, Root)
+
+Breadth-First or Level Order Traversal
+Binary Tree Vs K-Ary Trees
+
+A binary tree for which the root node has no right child, can be viewed as a general tree, and any binary tree can be viewed as a collection (forest) of general trees. A K-ary tree is a tree in which no node can have more than K children. A binary tree is an example of a K-ary tree, where K is 2.
