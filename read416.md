@@ -23,7 +23,7 @@ Servlet filters are used in the Web layer of Spring Security. A client sends a s
 ## Method Security
 In addition to support for securing web applications, Spring Security provides support for applying access rules to Java method implementations. For Spring Security, this is just a different kind of "protected resource". For users, this means that the access rules are declared using the same format as ConfigAttribute strings
 
-#### Spring Auth Cheat Sheet
+#### Spring Auth Cheat Sheet       [Source](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
 Step 1: set up a user model and repo
 
 Step 2: create a controller for that model
