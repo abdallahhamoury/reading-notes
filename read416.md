@@ -19,3 +19,6 @@ Read: 16 - Spring Authentication
 ### The Open Web Application Security Project (OWASP) is an excellent place to start and always come back to it when it comes to vulnerabilities and security concerns. And it should be reviewed periodically
 
 ### In some cases, simple gaps can cause big problems, especially in safety because it is one of the most important points that must be focused on in order to give the site reliability.
+
+
+FOR MORE INFORMATION [link](Spring Auth cheat sheet)
