@@ -47,4 +47,4 @@ Step 6: registration page
 - create it w/ form
 - ensure it posts to the route you specified in web config
 try it out!
-- add to a template w/ things about the Principal [Source](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
+- add to a template w/ things about the Principal ==> [Source](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
