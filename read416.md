@@ -1,51 +1,21 @@
 Read: 16 - Spring Authentication
 ---------------------------------------------------------------------------------------
 # Spring Authentication
-Application security mainly consists of two parts: authentication (who are you?) and authorization (what are you allowed to do?).
-Spring Security is a powerful and highly customizable authentication and access control framework. It is the de facto standard for securing spring based applications.
 
-After the authentication is successful, we proceed to authorization, the main interface of which is AccessDecisionManager.
-Spring Security is based on Servlet filters. There are multiple layers of filters that each play a special role, despite being shown by their own container as a single filter.
+### The implementation is implemented to control access and each request passes to the resource is protected by its methods and each request can ignore what is passed to the next method
 
-Spring Security Architecture && Spring Auth Cheat Sheet
+### The security context object contains information about the authenticated user and can be accessed by Java programming that treats the request as a local object.
 
-## Two problems of app security: authentication and authorization
+### The login processing filter is responsible for processing login requests. This form is usually run on the URL form. If the request URL matches one of the filter's configured patterns, it will attempt an authentication based on the information in the request.
 
-> Authentication The Authentication Manager is the main strategic interface for authentication in the authentication functionality. The AuthenticationManager can accomplish one of three things: If it can verify that the input is a valid base Film Throwing an authenticity exception is a runtime exception that is generally handled in a generic way by an application Spring Security is the AuthenticationManagerBuilder
+### The Filter Security Interceptor is the last line of defense in the filter security chain. It is responsible for making sure that no unauthenticated request reaches the protected resource. If this filter determines that a request for a protected resource is not authenticated
 
-> Authorization or Access Control
+> Spring Security is the leading choice for securing Spring applications. It offers a large number of alternatives that apply to different styles and structures.
 
-> AccessDecisionManager is the primary method for licensing. The framework provides three applications, each of which delegates a series of AccessDecisionVoter objects. And be ready to work
+### You have to implement security in layers for your system, and for each layer, different practices should be used. Spring Security is an application level security related project.
 
-## Web Security
-Servlet filters are used in the Web layer of Spring Security. A client sends a single HTTP request to the application, and the container defines which filters and servlets it applies to based on the request's URI path. The filters create a string and it can also change the request or response used by the final filters and servlets. FilterChainProxy is a concrete type of Spring Security which are all unknown to the container and are maintained by Spring Security at the same top level of FilterChainProx
+### Safety is one of the most important things in projects. At the beginning of the project, you should think about the safety mechanism in order for the site to be protected and integrated
 
-## Method Security
-In addition to support for securing web applications, Spring Security provides support for applying access rules to Java method implementations. For Spring Security, this is just a different kind of "protected resource". For users, this means that the access rules are declared using the same format as ConfigAttribute strings
+### The Open Web Application Security Project (OWASP) is an excellent place to start and always come back to it when it comes to vulnerabilities and security concerns. And it should be reviewed periodically
 
-#### Spring Auth Cheat Sheet       [Source](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
-Step 1: set up a user model and repo
-
-Step 2: create a controller for that model
-
-Step 3: UserDetailsServiceImpl implements UserDetailsService
-
-Step 4: ApplicationUser implements UserDetails
-
-Step 5: WebSecurityConfig extends WebSecurityConfigurerAdapter
-
-- has a UserDetailsService
-- passwordEncoder bean
-- configure AuthManagerBuilder
-- configure HttpSecurity
-Step 6: registration page
-- create it w/ form
-- ensure it posts to a route your controller is ready for
-- check it's saving in the DB
-- 
-Step 7: login page
-- create it w/ form
-- ensure it posts to the route you specified in web config
-try it out!
-
-- add to a template w/ things about the Principal ==> [Source](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
+### In some cases, simple gaps can cause big problems, especially in safety because it is one of the most important points that must be focused on in order to give the site reliability.
