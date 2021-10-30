@@ -21,4 +21,4 @@ Read: 16 - Spring Authentication
 ### In some cases, simple gaps can cause big problems, especially in safety because it is one of the most important points that must be focused on in order to give the site reliability.
 
 
-FOR MORE INFORMATION [link](Spring Auth cheat sheet)
+FOR MORE INFORMATION Spring Auth Cheat Sheet Steps [link](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
