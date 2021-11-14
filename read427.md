@@ -5,8 +5,8 @@
 - When the current activity starts another, the new activity is pushed on the top of the stack and takes focus. When the user presses the Back button, the current activity is popped from the top of the stack and the previous activity resumes.
 - While in the background, all the activities in the task are stopped, but the back stack for the task remains intact. A task can then return to the "foreground" so users can pick up where they left off.
 - one activity in your app might be instantiated multiple times. As such, if the user navigates backward using the Back button, each instance of the activity is revealed in the order they were opened. you can modify this behavior if you do not want an activity to be instantiated more than once.
-![diagram_backstack](../img401/diagram_backstack.png)
-<hr>
+
+
 ## Managing Tasks
 Using when you decide to interrupt the normal behavior of Back Stack.
 > **Caution: Most apps should not interrupt the default behavior for activities and tasks.**
@@ -36,13 +36,10 @@ If the user leaves a task for a long time, the system clears the task of all act
 - finishOnTaskLaunch.
 **[Starting a task]**
 You can set up an activity as the entry point for a task by giving it an intent filter with "android.intent.action.MAIN" as the specified action and "android.intent.category.LAUNCHER" as the specified category.
-<hr>
+
 ## Save key-value data
 To save small collection of key-values you should use the SharedPreferences APIs. A SharedPreferences object points to a file containing key-value pairs and provides simple methods to read and write them. Each SharedPreferences file is managed by the framework and can be private or shared. create a new shared preference file or access an existing one by calling one of these methods:
 - **`getSharedPreferences()`**
 - **`getPreferences()`**
-<hr>
-<br>
-**Sources**
-- Save key-value data / developer.android DOCUMENTATION.
-- Understand Tasks and Back Stack / developer.android DOCUMENTATION
+
+
