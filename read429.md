@@ -65,8 +65,4 @@ There are two types of DAO methods that define database interactions:
 - Direct cursor access.
 <hr>
 <br>
-**Sources**
-- Save data in a local database using Room / developer.android DOCUMENTATION.
-- Defining data using Room entities / developer.android DOCUMENTATION.
-- Define relationships between objects / developer.android DOCUMENTATION.
-- Accessing data using Room DAOs / developer.android DOCUMENTATION.
+
